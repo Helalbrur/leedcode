@@ -1,0 +1,134 @@
+{
+  "synced_ids": [
+    "1995721445",
+    "1995523237",
+    "1994636785",
+    "1993846802",
+    "1991492901",
+    "1990123153",
+    "1990100561",
+    "1985868590",
+    "1985811977",
+    "1984130908",
+    "1984091154",
+    "1983186058",
+    "1982297994",
+    "1982269948",
+    "1806739736",
+    "1806517040"
+  ],
+  "problems": {
+    "two-sum": {
+      "number": "1",
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "category": "Array",
+      "lang": "php",
+      "date": "2026-04-19"
+    },
+    "triangle": {
+      "number": "120",
+      "title": "Triangle",
+      "difficulty": "Medium",
+      "category": "Array",
+      "lang": "php",
+      "date": "2026-05-05"
+    },
+    "minimum-path-sum": {
+      "number": "64",
+      "title": "Minimum Path Sum",
+      "difficulty": "Medium",
+      "category": "Array",
+      "lang": "php",
+      "date": "2026-05-04"
+    },
+    "unique-paths-ii": {
+      "number": "63",
+      "title": "Unique Paths II",
+      "difficulty": "Medium",
+      "category": "Array",
+      "lang": "typescript",
+      "date": "2026-05-03"
+    },
+    "unique-paths": {
+      "number": "62",
+      "title": "Unique Paths",
+      "difficulty": "Medium",
+      "category": "Math",
+      "lang": "php",
+      "date": "2026-04-30"
+    },
+    "maximum-subarray": {
+      "number": "53",
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "category": "Array",
+      "lang": "python3",
+      "date": "2026-04-28"
+    },
+    "remove-duplicates-from-sorted-array": {
+      "number": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "difficulty": "Easy",
+      "category": "Array",
+      "lang": "php",
+      "date": "2026-04-28"
+    },
+    "valid-parentheses": {
+      "number": "20",
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "category": "String",
+      "lang": "javascript",
+      "date": "2026-04-23"
+    },
+    "longest-common-prefix": {
+      "number": "14",
+      "title": "Longest Common Prefix",
+      "difficulty": "Easy",
+      "category": "Array",
+      "lang": "python3",
+      "date": "2026-04-21"
+    },
+    "palindrome-number": {
+      "number": "9",
+      "title": "Palindrome Number",
+      "difficulty": "Easy",
+      "category": "Math",
+      "lang": "javascript",
+      "date": "2026-04-21"
+    },
+    "reverse-integer": {
+      "number": "7",
+      "title": "Reverse Integer",
+      "difficulty": "Medium",
+      "category": "Math",
+      "lang": "javascript",
+      "date": "2026-04-20"
+    },
+    "median-of-two-sorted-arrays": {
+      "number": "4",
+      "title": "Median of Two Sorted Arrays",
+      "difficulty": "Hard",
+      "category": "Array",
+      "lang": "python3",
+      "date": "2026-04-19"
+    },
+    "find-words-containing-character": {
+      "number": "2942",
+      "title": "Find Words Containing Character",
+      "difficulty": "Easy",
+      "category": "Array",
+      "lang": "javascript",
+      "date": "2025-10-20"
+    },
+    "score-of-a-string": {
+      "number": "3110",
+      "title": "Score of a String",
+      "difficulty": "Easy",
+      "category": "String",
+      "lang": "javascript",
+      "date": "2025-10-20"
+    }
+  }
+}
