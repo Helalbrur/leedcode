@@ -1,0 +1,8 @@
+# 0197. Rising Temperature
+# Difficulty : Easy
+# Tags       : database
+# Solved on  : 2019-12-03
+# LeetCode   : https://leetcode.com/problems/rising-temperature/
+
+# Write your MySQL query statement below
+select distinct a.Id from Weather a , Weather b where TO_DAYS(a.RecordDate)-TO_DAYS(b.RecordDate)=1 and a.Temperature>b.Temperature

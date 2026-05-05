@@ -1,0 +1,9 @@
+# 0196. Delete Duplicate Emails
+# Difficulty : Easy
+# Tags       : database
+# Solved on  : 2018-12-19
+# LeetCode   : https://leetcode.com/problems/delete-duplicate-emails/
+
+# Write your MySQL query statement below
+
+delete a from Person a, Person b where a.Id>b.Id and a.Email=b.Email;

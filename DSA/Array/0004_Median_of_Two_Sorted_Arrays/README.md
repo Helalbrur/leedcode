@@ -4,6 +4,6 @@
 |------------|-------|
 | Difficulty | Hard |
 | Tags       | `array`, `binary-search`, `divide-and-conquer` |
-| Solved on  | 2026-04-19 |
-| Language   | python3 |
+| Solved on  | 2021-02-12 |
+| Language   | cpp |
 | Link       | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) |

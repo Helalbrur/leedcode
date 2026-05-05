@@ -4,6 +4,6 @@
 |------------|-------|
 | Difficulty | Easy |
 | Tags       | `string`, `stack` |
-| Solved on  | 2026-04-23 |
-| Language   | javascript |
+| Solved on  | 2021-02-12 |
+| Language   | cpp |
 | Link       | [LeetCode](https://leetcode.com/problems/valid-parentheses/) |

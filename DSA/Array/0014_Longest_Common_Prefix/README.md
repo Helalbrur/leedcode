@@ -4,6 +4,6 @@
 |------------|-------|
 | Difficulty | Easy |
 | Tags       | `array`, `string`, `trie` |
-| Solved on  | 2026-04-21 |
-| Language   | python3 |
+| Solved on  | 2023-01-07 |
+| Language   | javascript |
 | Link       | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) |

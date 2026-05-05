@@ -4,6 +4,6 @@
 |------------|-------|
 | Difficulty | Medium |
 | Tags       | `array`, `dynamic-programming` |
-| Solved on  | 2026-05-05 |
-| Language   | php |
+| Solved on  | 2019-11-28 |
+| Language   | cpp |
 | Link       | [LeetCode](https://leetcode.com/problems/triangle/) |

@@ -1,0 +1,8 @@
+# 0181. Employees Earning More Than Their Managers
+# Difficulty : Easy
+# Tags       : database
+# Solved on  : 2018-11-30
+# LeetCode   : https://leetcode.com/problems/employees-earning-more-than-their-managers/
+
+# Write your MySQL query statement below
+select e.Name as Employee from Employee as e , Employee as f where e.ManagerId =f.Id and e.Salary >f.Salary ;

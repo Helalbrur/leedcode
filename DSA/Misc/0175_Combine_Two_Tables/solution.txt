@@ -1,0 +1,9 @@
+# 0175. Combine Two Tables
+# Difficulty : Easy
+# Tags       : database
+# Solved on  : 2018-11-20
+# LeetCode   : https://leetcode.com/problems/combine-two-tables/
+
+# Write your MySQL query statement below
+# Write your MySQL query statement below
+select FirstName, LastName,City,State from Person left join Address on Person.PersonId=Address.PersonId;

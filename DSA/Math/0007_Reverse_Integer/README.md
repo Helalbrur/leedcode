@@ -4,6 +4,6 @@
 |------------|-------|
 | Difficulty | Medium |
 | Tags       | `math` |
-| Solved on  | 2026-04-20 |
-| Language   | javascript |
+| Solved on  | 2018-11-28 |
+| Language   | cpp |
 | Link       | [LeetCode](https://leetcode.com/problems/reverse-integer/) |

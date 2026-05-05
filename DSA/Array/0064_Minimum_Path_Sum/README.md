@@ -4,6 +4,6 @@
 |------------|-------|
 | Difficulty | Medium |
 | Tags       | `array`, `dynamic-programming`, `matrix` |
-| Solved on  | 2026-05-04 |
-| Language   | php |
+| Solved on  | 2019-11-28 |
+| Language   | cpp |
 | Link       | [LeetCode](https://leetcode.com/problems/minimum-path-sum/) |

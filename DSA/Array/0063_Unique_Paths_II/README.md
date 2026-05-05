@@ -4,6 +4,6 @@
 |------------|-------|
 | Difficulty | Medium |
 | Tags       | `array`, `dynamic-programming`, `matrix` |
-| Solved on  | 2026-05-03 |
-| Language   | typescript |
+| Solved on  | 2019-11-28 |
+| Language   | cpp |
 | Link       | [LeetCode](https://leetcode.com/problems/unique-paths-ii/) |

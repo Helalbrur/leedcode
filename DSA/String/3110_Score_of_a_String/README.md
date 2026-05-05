@@ -5,5 +5,5 @@
 | Difficulty | Easy |
 | Tags       | `string` |
 | Solved on  | 2025-10-20 |
-| Language   | javascript |
+| Language   | php |
 | Link       | [LeetCode](https://leetcode.com/problems/score-of-a-string/) |

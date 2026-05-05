@@ -1,0 +1,16 @@
+# 0176. Second Highest Salary
+# Difficulty : Medium
+# Tags       : database
+# Solved on  : 2020-02-05
+# LeetCode   : https://leetcode.com/problems/second-highest-salary/
+
+# Write your MySQL query statement below
+SELECT 
+    IFNULL(
+        (SELECT DISTINCT Salary
+            From Employee
+            order by Salary DESC
+            LIMIT 1 OFFSET 1
+        ),
+        NULL
+    ) AS SecondHighestSalary

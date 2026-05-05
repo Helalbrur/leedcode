@@ -1,0 +1,8 @@
+# 0182. Duplicate Emails
+# Difficulty : Easy
+# Tags       : database
+# Solved on  : 2019-09-16
+# LeetCode   : https://leetcode.com/problems/duplicate-emails/
+
+# Write your MySQL query statement below
+select distinct Email from Person where Email in (select a.Email from Person a, Person b where a.id>b.id and a.Email=b.Email)

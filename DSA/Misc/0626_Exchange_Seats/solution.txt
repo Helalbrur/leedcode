@@ -1,0 +1,15 @@
+# 0626. Exchange Seats
+# Difficulty : Medium
+# Tags       : database
+# Solved on  : 2020-01-09
+# LeetCode   : https://leetcode.com/problems/exchange-seats/
+
+# Write your MySQL query statement bel
+select (case 
+            when mod(id,2)!=0 and students!=id then id+1
+            when mod(id,2)!=0 and students=id then id
+            else id-1
+        end) as id,
+        student
+from seat , (select count(*) as students from seat) as student_count
+order by id asc
