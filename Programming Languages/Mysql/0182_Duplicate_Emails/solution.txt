@@ -1,0 +1,12 @@
+# 0182. Duplicate Emails
+# Difficulty : Easy
+# Tags       : database
+# Solved on  : 2018-11-27
+# Attempt    : #1
+# LeetCode   : https://leetcode.com/problems/duplicate-emails/
+
+# Write your MySQL query statement below
+select Email from (
+        select Email,count(Email) as num from Person
+        group by Email
+    ) as duplicat where num>1;

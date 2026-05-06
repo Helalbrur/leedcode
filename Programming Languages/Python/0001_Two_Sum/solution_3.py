@@ -1,3 +1,10 @@
+# 0001. Two Sum
+# Difficulty : Easy
+# Tags       : array, hash-table
+# Solved on  : 2026-04-19
+# Attempt    : #3
+# LeetCode   : https://leetcode.com/problems/two-sum/
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         seen = {}

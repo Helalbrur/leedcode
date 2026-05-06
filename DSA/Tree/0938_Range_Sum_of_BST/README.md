@@ -1,9 +1,15 @@
 # 938. Range Sum of BST
 
-| Field      | Value |
-|------------|-------|
-| Difficulty | Easy |
-| Tags       | `tree`, `depth-first-search`, `binary-search-tree`, `binary-tree` |
-| Solved on  | 2019-08-09 |
-| Language   | cpp |
-| Link       | [LeetCode](https://leetcode.com/problems/range-sum-of-bst/) |
+| Field       | Value |
+|-------------|-------|
+| Difficulty  | Easy |
+| Tags        | `tree`, `depth-first-search`, `binary-search-tree`, `binary-tree` |
+| Last solved | 2019-07-21 |
+| Link        | [LeetCode](https://leetcode.com/problems/range-sum-of-bst/) |
+
+## Solutions
+
+| Language | File |
+|----------|------|
+| `cpp` | [solution.cpp](./cpp/solution.cpp) |
+| `cpp` | [solution_2.cpp](./cpp/solution_2.cpp) |

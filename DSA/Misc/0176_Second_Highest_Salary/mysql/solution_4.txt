@@ -1,0 +1,9 @@
+# 0176. Second Highest Salary
+# Difficulty : Medium
+# Tags       : database
+# Solved on  : 2019-12-03
+# Attempt    : #4
+# LeetCode   : https://leetcode.com/problems/second-highest-salary/
+
+# Write your MySQL query statement below
+select max(Salary) as SecondHighestSalary from employee where Salary<(select max(Salary) from employee);

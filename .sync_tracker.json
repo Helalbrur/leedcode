@@ -212,7 +212,85 @@
     "1996290504",
     "1996300231",
     "1996297045",
-    "1996295532"
+    "1996295532",
+    "190714335",
+    "190716693",
+    "190720185",
+    "190756180",
+    "191992657",
+    "192021889",
+    "192023244",
+    "192483055",
+    "195736528",
+    "195928217",
+    "243479907",
+    "245049080",
+    "245073142",
+    "245699596",
+    "245725369",
+    "245725773",
+    "245734228",
+    "246473733",
+    "246473803",
+    "248778805",
+    "249054340",
+    "250388130",
+    "250394862",
+    "251224998",
+    "252597897",
+    "253881648",
+    "258795265",
+    "270903884",
+    "281058247",
+    "281303705",
+    "282227745",
+    "283114751",
+    "283403640",
+    "287315709",
+    "299057176",
+    "299235651",
+    "299394994",
+    "299894826",
+    "300088193",
+    "431606482",
+    "431607239",
+    "455173054",
+    "717744605",
+    "717749022",
+    "717750255",
+    "720080705",
+    "720897231",
+    "721701871",
+    "723318028",
+    "739983638",
+    "739985469",
+    "740595063",
+    "873073597",
+    "1123641198",
+    "1131341337",
+    "1806602622",
+    "1806608977",
+    "1806610998",
+    "1806617021",
+    "1806721999",
+    "1806733305",
+    "1982197805",
+    "1982216629",
+    "1982228929",
+    "1982255865",
+    "1982288126",
+    "1984081617",
+    "1984116714",
+    "1985797552",
+    "1990090115",
+    "1990118848",
+    "1991464417",
+    "1991467728",
+    "1991469294",
+    "1993782382",
+    "1994627483",
+    "1995522732",
+    "1996295241"
   ],
   "problems": {
     "two-sum": {
@@ -220,6 +298,12 @@
       "title": "Two Sum",
       "difficulty": "Easy",
       "category": "Array",
+      "langs": [
+        "cpp",
+        "php",
+        "python3",
+        "javascript"
+      ],
       "lang": "javascript",
       "date": "2026-04-19"
     },
@@ -228,72 +312,107 @@
       "title": "Triangle",
       "difficulty": "Medium",
       "category": "Array",
-      "lang": "cpp",
-      "date": "2019-11-28"
+      "langs": [
+        "php"
+      ],
+      "lang": "php",
+      "date": "2026-05-05"
     },
     "minimum-path-sum": {
       "number": "64",
       "title": "Minimum Path Sum",
       "difficulty": "Medium",
       "category": "Array",
-      "lang": "cpp",
-      "date": "2019-11-28"
+      "langs": [
+        "python3"
+      ],
+      "lang": "python3",
+      "date": "2026-05-04"
     },
     "unique-paths-ii": {
       "number": "63",
       "title": "Unique Paths II",
       "difficulty": "Medium",
       "category": "Array",
-      "lang": "cpp",
-      "date": "2019-11-28"
+      "langs": [
+        "python3"
+      ],
+      "lang": "python3",
+      "date": "2026-05-03"
     },
     "unique-paths": {
       "number": "62",
       "title": "Unique Paths",
       "difficulty": "Medium",
       "category": "Math",
-      "lang": "cpp",
-      "date": "2020-02-04"
+      "langs": [
+        "cpp",
+        "python3"
+      ],
+      "lang": "python3",
+      "date": "2026-04-30"
     },
     "maximum-subarray": {
       "number": "53",
       "title": "Maximum Subarray",
       "difficulty": "Medium",
       "category": "Array",
-      "lang": "cpp",
-      "date": "2019-07-15"
+      "langs": [
+        "cpp",
+        "python3"
+      ],
+      "lang": "python3",
+      "date": "2026-04-28"
     },
     "remove-duplicates-from-sorted-array": {
       "number": "26",
       "title": "Remove Duplicates from Sorted Array",
       "difficulty": "Easy",
       "category": "Array",
-      "lang": "cpp",
-      "date": "2020-04-20"
+      "langs": [
+        "php",
+        "python3"
+      ],
+      "lang": "python3",
+      "date": "2026-04-28"
     },
     "valid-parentheses": {
       "number": "20",
       "title": "Valid Parentheses",
       "difficulty": "Easy",
       "category": "String",
-      "lang": "cpp",
-      "date": "2021-02-12"
+      "langs": [
+        "cpp",
+        "javascript",
+        "php",
+        "python3"
+      ],
+      "lang": "python3",
+      "date": "2026-04-23"
     },
     "longest-common-prefix": {
       "number": "14",
       "title": "Longest Common Prefix",
       "difficulty": "Easy",
       "category": "Array",
-      "lang": "javascript",
-      "date": "2023-01-07"
+      "langs": [
+        "javascript",
+        "python3"
+      ],
+      "lang": "python3",
+      "date": "2026-04-21"
     },
     "palindrome-number": {
       "number": "9",
       "title": "Palindrome Number",
       "difficulty": "Easy",
       "category": "Math",
-      "lang": "cpp",
-      "date": "2018-12-05"
+      "langs": [
+        "php",
+        "javascript"
+      ],
+      "lang": "php",
+      "date": "2026-04-21"
     },
     "reverse-integer": {
       "number": "7",
@@ -308,15 +427,24 @@
       "title": "Median of Two Sorted Arrays",
       "difficulty": "Hard",
       "category": "Array",
-      "lang": "cpp",
-      "date": "2021-02-12"
+      "langs": [
+        "cpp",
+        "python3"
+      ],
+      "lang": "python3",
+      "date": "2026-04-19"
     },
     "find-words-containing-character": {
       "number": "2942",
       "title": "Find Words Containing Character",
       "difficulty": "Easy",
       "category": "Array",
-      "lang": "cpp",
+      "langs": [
+        "python3",
+        "php",
+        "javascript"
+      ],
+      "lang": "javascript",
       "date": "2025-10-20"
     },
     "score-of-a-string": {
@@ -348,6 +476,9 @@
       "title": "Return Length of Arguments Passed",
       "difficulty": "Easy",
       "category": "Misc",
+      "langs": [
+        "javascript"
+      ],
       "lang": "javascript",
       "date": "2023-12-29"
     },
@@ -380,7 +511,10 @@
       "title": "Counter II",
       "difficulty": "Easy",
       "category": "Misc",
-      "lang": "javascript",
+      "langs": [
+        "typescript"
+      ],
+      "lang": "typescript",
       "date": "2023-12-19"
     },
     "to-be-or-not-to-be": {
@@ -412,15 +546,21 @@
       "title": "Find the Town Judge",
       "difficulty": "Easy",
       "category": "Array",
+      "langs": [
+        "cpp"
+      ],
       "lang": "cpp",
-      "date": "2023-01-23"
+      "date": "2020-02-03"
     },
     "running-sum-of-1d-array": {
       "number": "1480",
       "title": "Running Sum of 1d Array",
       "difficulty": "Easy",
       "category": "Array",
-      "lang": "python3",
+      "langs": [
+        "javascript"
+      ],
+      "lang": "javascript",
       "date": "2022-07-07"
     },
     "find-pivot-index": {
@@ -532,16 +672,22 @@
       "title": "Is Graph Bipartite?",
       "difficulty": "Medium",
       "category": "Graph",
+      "langs": [
+        "cpp"
+      ],
       "lang": "cpp",
-      "date": "2020-02-13"
+      "date": "2020-02-04"
     },
     "second-highest-salary": {
       "number": "176",
       "title": "Second Highest Salary",
       "difficulty": "Medium",
       "category": "Misc",
+      "langs": [
+        "mysql"
+      ],
       "lang": "mysql",
-      "date": "2020-02-05"
+      "date": "2019-12-03"
     },
     "delete-operation-for-two-strings": {
       "number": "583",
@@ -564,16 +710,22 @@
       "title": "Robot Return to Origin",
       "difficulty": "Easy",
       "category": "String",
+      "langs": [
+        "cpp"
+      ],
       "lang": "cpp",
-      "date": "2020-02-03"
+      "date": "2019-07-26"
     },
     "number-of-islands": {
       "number": "200",
       "title": "Number of Islands",
       "difficulty": "Medium",
       "category": "Array",
+      "langs": [
+        "cpp"
+      ],
       "lang": "cpp",
-      "date": "2020-02-02"
+      "date": "2019-12-02"
     },
     "reduce-array-size-to-the-half": {
       "number": "1338",
@@ -604,6 +756,9 @@
       "title": "Maximal Square",
       "difficulty": "Medium",
       "category": "Array",
+      "langs": [
+        "cpp"
+      ],
       "lang": "cpp",
       "date": "2020-02-01"
     },
@@ -644,6 +799,9 @@
       "title": "Decode Ways II",
       "difficulty": "Hard",
       "category": "String",
+      "langs": [
+        "cpp"
+      ],
       "lang": "cpp",
       "date": "2020-01-31"
     },
@@ -700,8 +858,11 @@
       "title": "Maximum Level Sum of a Binary Tree",
       "difficulty": "Medium",
       "category": "Tree",
+      "langs": [
+        "cpp"
+      ],
       "lang": "cpp",
-      "date": "2020-01-19"
+      "date": "2019-08-18"
     },
     "minimum-flips-to-make-a-or-b-equal-to-c": {
       "number": "1318",
@@ -812,6 +973,9 @@
       "title": "Longest Palindromic Substring",
       "difficulty": "Medium",
       "category": "TwoPointers",
+      "langs": [
+        "cpp"
+      ],
       "lang": "cpp",
       "date": "2019-12-20"
     },
@@ -940,8 +1104,11 @@
       "title": "Day of the Week",
       "difficulty": "Easy",
       "category": "Math",
+      "langs": [
+        "php"
+      ],
       "lang": "php",
-      "date": "2019-10-28"
+      "date": "2019-09-08"
     },
     "missing-number-in-arithmetic-progression": {
       "number": "1228",
@@ -956,6 +1123,9 @@
       "title": "Stone Game",
       "difficulty": "Medium",
       "category": "Array",
+      "langs": [
+        "cpp"
+      ],
       "lang": "cpp",
       "date": "2019-10-18"
     },
@@ -1036,8 +1206,11 @@
       "title": "Duplicate Emails",
       "difficulty": "Easy",
       "category": "Misc",
+      "langs": [
+        "mysql"
+      ],
       "lang": "mysql",
-      "date": "2019-09-16"
+      "date": "2018-12-18"
     },
     "reverse-substrings-between-each-pair-of-parentheses": {
       "number": "1190",
@@ -1100,6 +1273,9 @@
       "title": "Unique Morse Code Words",
       "difficulty": "Easy",
       "category": "Array",
+      "langs": [
+        "cpp"
+      ],
       "lang": "cpp",
       "date": "2019-08-22"
     },
@@ -1156,7 +1332,10 @@
       "title": "Product of Array Except Self",
       "difficulty": "Medium",
       "category": "Array",
-      "lang": "python3",
+      "langs": [
+        "cpp"
+      ],
+      "lang": "cpp",
       "date": "2019-08-13"
     },
     "best-time-to-buy-and-sell-stock": {
@@ -1164,6 +1343,10 @@
       "title": "Best Time to Buy and Sell Stock",
       "difficulty": "Easy",
       "category": "Array",
+      "langs": [
+        "cpp",
+        "javascript"
+      ],
       "lang": "javascript",
       "date": "2026-05-06"
     },
@@ -1172,6 +1355,9 @@
       "title": "Count Primes",
       "difficulty": "Medium",
       "category": "Array",
+      "langs": [
+        "cpp"
+      ],
       "lang": "cpp",
       "date": "2019-08-10"
     },
@@ -1188,14 +1374,20 @@
       "title": "Range Sum of BST",
       "difficulty": "Easy",
       "category": "Tree",
+      "langs": [
+        "cpp"
+      ],
       "lang": "cpp",
-      "date": "2019-08-09"
+      "date": "2019-07-21"
     },
     "unique-email-addresses": {
       "number": "929",
       "title": "Unique Email Addresses",
       "difficulty": "Easy",
       "category": "Array",
+      "langs": [
+        "cpp"
+      ],
       "lang": "cpp",
       "date": "2019-08-04"
     },
@@ -1220,6 +1412,9 @@
       "title": "Counting Bits",
       "difficulty": "Easy",
       "category": "DynamicProgramming",
+      "langs": [
+        "cpp"
+      ],
       "lang": "cpp",
       "date": "2019-07-23"
     },
@@ -1300,6 +1495,9 @@
       "title": "Delete Duplicate Emails",
       "difficulty": "Easy",
       "category": "Misc",
+      "langs": [
+        "mysql"
+      ],
       "lang": "mysql",
       "date": "2018-12-19"
     },
@@ -1308,8 +1506,11 @@
       "title": "Customers Who Never Order",
       "difficulty": "Easy",
       "category": "Misc",
+      "langs": [
+        "mysql"
+      ],
       "lang": "mysql",
-      "date": "2018-12-19"
+      "date": "2018-11-30"
     },
     "employees-earning-more-than-their-managers": {
       "number": "181",
@@ -1351,5 +1552,58 @@
       "lang": "mysql",
       "date": "2018-11-20"
     }
+  },
+  "counts": {
+    "second-highest-salary::mysql": 4,
+    "two-sum::cpp": 3,
+    "median-of-two-sorted-arrays::cpp": 2,
+    "duplicate-emails::mysql": 3,
+    "customers-who-never-order::mysql": 1,
+    "delete-duplicate-emails::mysql": 1,
+    "maximum-subarray::cpp": 1,
+    "range-sum-of-bst::cpp": 2,
+    "best-time-to-buy-and-sell-stock::cpp": 1,
+    "counting-bits::cpp": 2,
+    "find-the-town-judge::cpp": 2,
+    "robot-return-to-origin::cpp": 2,
+    "unique-email-addresses::cpp": 1,
+    "valid-parentheses::cpp": 3,
+    "count-primes::cpp": 1,
+    "product-of-array-except-self::cpp": 1,
+    "maximum-level-sum-of-a-binary-tree::cpp": 1,
+    "unique-morse-code-words::cpp": 1,
+    "day-of-the-week::php": 1,
+    "stone-game::cpp": 1,
+    "number-of-islands::cpp": 2,
+    "is-graph-bipartite::cpp": 3,
+    "unique-paths::cpp": 1,
+    "longest-palindromic-substring::cpp": 1,
+    "decode-ways-ii::cpp": 1,
+    "maximal-square::cpp": 1,
+    "two-sum::php": 1,
+    "two-sum::python3": 3,
+    "palindrome-number::php": 2,
+    "palindrome-number::javascript": 1,
+    "two-sum::javascript": 2,
+    "remove-duplicates-from-sorted-array::php": 1,
+    "valid-parentheses::javascript": 1,
+    "valid-parentheses::php": 2,
+    "running-sum-of-1d-array::javascript": 1,
+    "longest-common-prefix::javascript": 1,
+    "counter-ii::typescript": 1,
+    "return-length-of-arguments-passed::javascript": 1,
+    "find-words-containing-character::python3": 3,
+    "find-words-containing-character::php": 1,
+    "find-words-containing-character::javascript": 2,
+    "median-of-two-sorted-arrays::python3": 1,
+    "longest-common-prefix::python3": 1,
+    "valid-parentheses::python3": 1,
+    "remove-duplicates-from-sorted-array::python3": 1,
+    "maximum-subarray::python3": 1,
+    "unique-paths::python3": 3,
+    "unique-paths-ii::python3": 1,
+    "minimum-path-sum::python3": 1,
+    "triangle::php": 1,
+    "best-time-to-buy-and-sell-stock::javascript": 1
   }
 }

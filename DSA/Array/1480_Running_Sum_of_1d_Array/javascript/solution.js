@@ -1,0 +1,20 @@
+// 1480. Running Sum of 1d Array
+// Difficulty : Easy
+// Tags       : array, prefix-sum
+// Solved on  : 2022-07-07
+// Attempt    : #1
+// LeetCode   : https://leetcode.com/problems/running-sum-of-1d-array/
+
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
+var runningSum = function(nums) {
+    var sum=0;
+    for ( var i = 0; i < nums.length ; i++)
+    {
+        sum+= nums[i];
+        nums[i] = sum ;    
+    }
+    return nums;
+};
