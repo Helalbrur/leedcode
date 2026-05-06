@@ -4,13 +4,12 @@
 // Solved on  : 2026-05-06
 // LeetCode   : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
-#include <limits.h>
-class Solution {
-public:
-     /**
-     * @param vector<int>& prices
-     * @return int
-     🔷 Step-by-Step Example
+/**
+ * @param {number[]} prices
+ * @return {number}
+ */
+var maxProfit = function(prices) {
+    /*🔷 Step-by-Step Example
         prices = [7, 1, 5, 3, 6, 4]
         | Day | Price | min_price_so_far | Profit if sold today | max_profit |
         | --- | ----- | ---------------- | -------------------- | ---------- |
@@ -21,13 +20,11 @@ public:
         | 4   | 6     | 1                | 5                    | 5          |
         | 5   | 4     | 1                | 3                    | 5          |
     */
-    int maxProfit(vector<int>& prices) {
-        int mn = INT_MAX;
-        int mx = INT_MIN;
-        for(int i = 0; i < prices.size();i++){
-            mn = min(mn,prices[i]);
-            mx = max(prices[i]-mn,mx);
-        }
-        return mx;
-    }
+    var mn = Number.MAX_SAFE_INTEGER;
+    var mx = - mn;
+    prices.forEach((p,indx,arr)=>{
+        mn = Math.min(p,mn);
+        mx = Math.max(p-mn,mx);
+    });
+    return mx;
 };

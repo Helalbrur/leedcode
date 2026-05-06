@@ -1,6 +1,6 @@
 # 🧠 LeetCode Solutions — @Helaluddin
 
-Auto-synced with Python · Last updated: 2026-05-06 03:36 UTC
+Auto-synced with Python · Last updated: 2026-05-06 03:55 UTC
 
 ## 📊 Stats
 
@@ -46,7 +46,7 @@ Auto-synced with Python · Last updated: 2026-05-06 03:36 UTC
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy | Tree | cpp | 2020-02-01 |
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | 🟢 Easy | Tree | cpp | 2020-02-01 |
 | 0120 | [Triangle](https://leetcode.com/problems/triangle/) | 🟡 Medium | Array | cpp | 2019-11-28 |
-| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Array | python3 | 2026-05-06 |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Array | javascript | 2026-05-06 |
 | 0130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | 🟡 Medium | Array | cpp | 2019-11-23 |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | HashTable | cpp | 2019-08-24 |
 | 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | 🟢 Easy | Misc | mysql | 2018-11-20 |

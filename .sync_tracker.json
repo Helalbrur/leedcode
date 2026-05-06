@@ -209,7 +209,10 @@
     "191995870",
     "190712801",
     "1996286026",
-    "1996290504"
+    "1996290504",
+    "1996300231",
+    "1996297045",
+    "1996295532"
   ],
   "problems": {
     "two-sum": {
@@ -1161,7 +1164,7 @@
       "title": "Best Time to Buy and Sell Stock",
       "difficulty": "Easy",
       "category": "Array",
-      "lang": "python3",
+      "lang": "javascript",
       "date": "2026-05-06"
     },
     "count-primes": {

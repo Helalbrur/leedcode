@@ -5,5 +5,5 @@
 | Difficulty | Easy |
 | Tags       | `array`, `dynamic-programming` |
 | Solved on  | 2026-05-06 |
-| Language   | python3 |
+| Language   | javascript |
 | Link       | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
