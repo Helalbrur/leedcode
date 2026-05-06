@@ -4,6 +4,6 @@
 |------------|-------|
 | Difficulty | Easy |
 | Tags       | `array`, `dynamic-programming` |
-| Solved on  | 2019-08-13 |
-| Language   | cpp |
+| Solved on  | 2026-05-06 |
+| Language   | python3 |
 | Link       | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
