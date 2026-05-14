@@ -1,6 +1,6 @@
 # CPP Solutions
 
-21 problem(s) solved in CPP.
+22 problem(s) solved in CPP.
 
 | Problem |
 |---------|
@@ -23,5 +23,6 @@
 | [0877_Stone_Game](./0877_Stone_Game/) |
 | [0929_Unique_Email_Addresses](./0929_Unique_Email_Addresses/) |
 | [0938_Range_Sum_of_BST](./0938_Range_Sum_of_BST/) |
+| [0977_Squares_of_a_Sorted_Array](./0977_Squares_of_a_Sorted_Array/) |
 | [0997_Find_the_Town_Judge](./0997_Find_the_Town_Judge/) |
 | [1161_Maximum_Level_Sum_of_a_Binary_Tree](./1161_Maximum_Level_Sum_of_a_Binary_Tree/) |

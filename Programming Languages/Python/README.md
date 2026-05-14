@@ -1,6 +1,6 @@
 # Python Solutions
 
-10 problem(s) solved in Python.
+11 problem(s) solved in Python.
 
 | Problem |
 |---------|
@@ -13,4 +13,5 @@
 | [0062_Unique_Paths](./0062_Unique_Paths/) |
 | [0063_Unique_Paths_II](./0063_Unique_Paths_II/) |
 | [0064_Minimum_Path_Sum](./0064_Minimum_Path_Sum/) |
+| [0977_Squares_of_a_Sorted_Array](./0977_Squares_of_a_Sorted_Array/) |
 | [2942_Find_Words_Containing_Character](./2942_Find_Words_Containing_Character/) |

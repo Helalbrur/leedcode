@@ -290,7 +290,11 @@
     "1993782382",
     "1994627483",
     "1995522732",
-    "1996295241"
+    "1996295241",
+    "2002587733",
+    "2002592106",
+    "2002598543",
+    "2002607521"
   ],
   "problems": {
     "two-sum": {
@@ -1551,6 +1555,20 @@
       "category": "Misc",
       "lang": "mysql",
       "date": "2018-11-20"
+    },
+    "squares-of-a-sorted-array": {
+      "number": "977",
+      "title": "Squares of a Sorted Array",
+      "difficulty": "Easy",
+      "category": "Array",
+      "langs": [
+        "php",
+        "javascript",
+        "python3",
+        "cpp"
+      ],
+      "lang": "cpp",
+      "date": "2026-05-14"
     }
   },
   "counts": {
@@ -1604,6 +1622,10 @@
     "unique-paths-ii::python3": 1,
     "minimum-path-sum::python3": 1,
     "triangle::php": 1,
-    "best-time-to-buy-and-sell-stock::javascript": 1
+    "best-time-to-buy-and-sell-stock::javascript": 1,
+    "squares-of-a-sorted-array::php": 1,
+    "squares-of-a-sorted-array::javascript": 1,
+    "squares-of-a-sorted-array::python3": 1,
+    "squares-of-a-sorted-array::cpp": 1
   }
 }

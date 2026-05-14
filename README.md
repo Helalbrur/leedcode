@@ -1,12 +1,12 @@
 # 🧠 LeetCode Solutions — @helal
 
-Auto-synced with Python · Last updated: 2026-05-06 08:25 UTC
+Auto-synced with Python · Last updated: 2026-05-14 05:30 UTC
 
 ## 📊 Stats
 
 | Total Problems | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |----------------|---------|-----------|---------|
-| 142 | 80 | 58 | 4 |
+| 143 | 81 | 58 | 4 |
 
 ## 🗂️ Browse by Topic
 
@@ -14,7 +14,7 @@ Auto-synced with Python · Last updated: 2026-05-06 08:25 UTC
 
 | Category | Problems |
 |----------|----------|
-| Array | 59 |
+| Array | 60 |
 | Misc | 27 |
 | String | 15 |
 | Math | 14 |
@@ -31,11 +31,11 @@ Auto-synced with Python · Last updated: 2026-05-06 08:25 UTC
 
 | Language | Solutions |
 |----------|-----------|
-| [CPP](./Programming%20Languages/CPP/) | 99 |
-| [JavaScript](./Programming%20Languages/JavaScript/) | 20 |
+| [CPP](./Programming%20Languages/CPP/) | 100 |
+| [JavaScript](./Programming%20Languages/JavaScript/) | 21 |
 | [mysql](./Programming%20Languages/mysql/) | 17 |
-| [Python](./Programming%20Languages/Python/) | 11 |
-| [PHP](./Programming%20Languages/PHP/) | 8 |
+| [Python](./Programming%20Languages/Python/) | 12 |
+| [PHP](./Programming%20Languages/PHP/) | 9 |
 | [Java](./Programming%20Languages/Java/) | 2 |
 
 ## 📋 All Solutions
@@ -120,6 +120,7 @@ Auto-synced with Python · Last updated: 2026-05-06 08:25 UTC
 | 0931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | 🟡 Medium | Array | `cpp` | 2019-11-28 |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 🟢 Easy | Tree | `cpp` | 2019-07-21 |
 | 0965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | 🟢 Easy | Tree | `cpp` | 2019-07-22 |
+| 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | Array | `php`, `javascript`, `python3`, `cpp` | 2026-05-14 |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | Array | `cpp` | 2019-12-01 |
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | 🟢 Easy | Array | `cpp` | 2020-02-03 |
 | 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | 🟡 Medium | String | `javascript` | 2021-02-12 |
