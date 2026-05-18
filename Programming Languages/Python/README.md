@@ -1,6 +1,6 @@
 # Python Solutions
 
-11 problem(s) solved in Python.
+12 problem(s) solved in Python.
 
 | Problem |
 |---------|
@@ -9,6 +9,7 @@
 | [0014_Longest_Common_Prefix](./0014_Longest_Common_Prefix/) |
 | [0020_Valid_Parentheses](./0020_Valid_Parentheses/) |
 | [0026_Remove_Duplicates_from_Sorted_Array](./0026_Remove_Duplicates_from_Sorted_Array/) |
+| [0049_Group_Anagrams](./0049_Group_Anagrams/) |
 | [0053_Maximum_Subarray](./0053_Maximum_Subarray/) |
 | [0062_Unique_Paths](./0062_Unique_Paths/) |
 | [0063_Unique_Paths_II](./0063_Unique_Paths_II/) |

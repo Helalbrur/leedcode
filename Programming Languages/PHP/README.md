@@ -1,6 +1,6 @@
 # PHP Solutions
 
-8 problem(s) solved in PHP.
+9 problem(s) solved in PHP.
 
 | Problem |
 |---------|
@@ -8,6 +8,7 @@
 | [0009_Palindrome_Number](./0009_Palindrome_Number/) |
 | [0020_Valid_Parentheses](./0020_Valid_Parentheses/) |
 | [0026_Remove_Duplicates_from_Sorted_Array](./0026_Remove_Duplicates_from_Sorted_Array/) |
+| [0049_Group_Anagrams](./0049_Group_Anagrams/) |
 | [0120_Triangle](./0120_Triangle/) |
 | [0977_Squares_of_a_Sorted_Array](./0977_Squares_of_a_Sorted_Array/) |
 | [1185_Day_of_the_Week](./1185_Day_of_the_Week/) |

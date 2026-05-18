@@ -1,12 +1,12 @@
 # 🧠 LeetCode Solutions — @helal
 
-Auto-synced with Python · Last updated: 2026-05-14 05:30 UTC
+Auto-synced with Python · Last updated: 2026-05-18 05:12 UTC
 
 ## 📊 Stats
 
 | Total Problems | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |----------------|---------|-----------|---------|
-| 143 | 81 | 58 | 4 |
+| 144 | 81 | 59 | 4 |
 
 ## 🗂️ Browse by Topic
 
@@ -14,7 +14,7 @@ Auto-synced with Python · Last updated: 2026-05-14 05:30 UTC
 
 | Category | Problems |
 |----------|----------|
-| Array | 60 |
+| Array | 61 |
 | Misc | 27 |
 | String | 15 |
 | Math | 14 |
@@ -32,10 +32,10 @@ Auto-synced with Python · Last updated: 2026-05-14 05:30 UTC
 | Language | Solutions |
 |----------|-----------|
 | [CPP](./Programming%20Languages/CPP/) | 100 |
-| [JavaScript](./Programming%20Languages/JavaScript/) | 21 |
+| [JavaScript](./Programming%20Languages/JavaScript/) | 22 |
 | [mysql](./Programming%20Languages/mysql/) | 17 |
-| [Python](./Programming%20Languages/Python/) | 12 |
-| [PHP](./Programming%20Languages/PHP/) | 9 |
+| [Python](./Programming%20Languages/Python/) | 13 |
+| [PHP](./Programming%20Languages/PHP/) | 10 |
 | [Java](./Programming%20Languages/Java/) | 2 |
 
 ## 📋 All Solutions
@@ -50,6 +50,7 @@ Auto-synced with Python · Last updated: 2026-05-14 05:30 UTC
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | Array | `javascript`, `python3` | 2026-04-21 |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | String | `cpp`, `javascript`, `php`, `python3` | 2026-04-23 |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | Array | `php`, `python3` | 2026-04-28 |
+| 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | Array | `python3`, `javascript`, `php` | 2026-05-18 |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | Array | `cpp`, `python3` | 2026-04-28 |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | Math | `cpp`, `python3` | 2026-04-30 |
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | 🟡 Medium | Array | `python3` | 2026-05-03 |

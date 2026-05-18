@@ -294,7 +294,12 @@
     "2002587733",
     "2002592106",
     "2002598543",
-    "2002607521"
+    "2002607521",
+    "2004329601",
+    "2006026802",
+    "2006034010",
+    "2006043522",
+    "2006057419"
   ],
   "problems": {
     "two-sum": {
@@ -1569,6 +1574,19 @@
       ],
       "lang": "cpp",
       "date": "2026-05-14"
+    },
+    "group-anagrams": {
+      "number": "49",
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "category": "Array",
+      "langs": [
+        "python3",
+        "javascript",
+        "php"
+      ],
+      "lang": "python3",
+      "date": "2026-05-18"
     }
   },
   "counts": {
@@ -1626,6 +1644,9 @@
     "squares-of-a-sorted-array::php": 1,
     "squares-of-a-sorted-array::javascript": 1,
     "squares-of-a-sorted-array::python3": 1,
-    "squares-of-a-sorted-array::cpp": 1
+    "squares-of-a-sorted-array::cpp": 1,
+    "group-anagrams::python3": 2,
+    "group-anagrams::javascript": 2,
+    "group-anagrams::php": 1
   }
 }
